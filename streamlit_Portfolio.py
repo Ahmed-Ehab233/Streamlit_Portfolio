@@ -34,8 +34,7 @@ ABOUT = [
 
 STATS = [  # (label, value)
     ("Featured projects", "1+"),
-    ("Main BI tool", "Python & SQL"),
-    ("ML & analysis", "Python"),
+    ("Main tools", "Python & SQL")
 ]
 
 SKILLS = {
